@@ -1,6 +1,8 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center">Hi 👋, I'm Gunjan Agrawal</h1>
-<h3 align="center">Student</h3>
+<img align="left" alt="Coding" width="300" src="https://res.cloudinary.com/dzm7us0kt/image/upload/v1687134900/ezgif.com-video-to-gif_jb603g.gif">
+<br>
+<br>
+<h1 align="right">Hello , I'm Gunjan Agrawal</h1>
+<h5 align="right">Student</h5>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
