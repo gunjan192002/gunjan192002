@@ -1,13 +1,16 @@
-<img align="left" alt="Coding" width="300" src="https://res.cloudinary.com/dzm7us0kt/image/upload/v1687134900/ezgif.com-video-to-gif_jb603g.gif">
+<img align="center" alt="Coding" width="1000" src="https://res.cloudinary.com/dzm7us0kt/image/upload/v1687136248/Black_Minimal_Motivation_Quote_LinkedIn_Banner_difzxz.png">
+
 <br>
 <br>
 <h1 align="right">Hello , I'm Gunjan Agrawal</h1>
 <h5 align="right">Student</h5>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan192002&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan192002" /> </p>
 
+</p>
 - 👷 <samp>Currently pursuing B.Tech in Computer Science and Engineering(2021-2025) from National Institute of Technology Raipur
 
 - 🌱 <samp>I’m currently learning Web development and DSA
